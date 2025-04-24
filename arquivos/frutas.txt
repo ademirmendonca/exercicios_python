@@ -1,0 +1,7 @@
+fruta;categoria
+maçã;vermelha
+banana;amarela
+morango;vermelha
+abacaxi;amarela
+uva;roxa
+melancia;vermelha
