@@ -1,0 +1,12 @@
+python: 3
+é: 2
+uma: 1
+linguagem: 1
+poderosa: 1
+fácil: 1
+de: 1
+aprender: 2
+pode: 1
+abrir: 1
+muitas: 1
+portas: 1

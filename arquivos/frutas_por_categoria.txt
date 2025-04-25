@@ -1,0 +1,3 @@
+vermelha: maçã, morango, melancia
+amarela: banana, abacaxi
+roxa: uva
