@@ -1,0 +1,31 @@
+produto,quantidade,preco_unitario,total
+Caneta,100,1.5,101.5
+Caderno,50,12.0,62.0
+Borracha,200,0.75,200.75
+Lápis,150,1.2,151.2
+Marca-texto,80,3.0,83.0
+Apontador,60,1.8,61.8
+Cola,40,2.5,42.5
+Tesoura,70,5.0,75.0
+Régua,90,2.0,92.0
+Grampeador,30,15.0,45.0
+Fita adesiva,100,4.5,104.5
+Papel sulfite,500,0.1,500.1
+Envelope,200,0.2,200.2
+Cartolina,60,1.7,61.7
+Canetinha,120,2.0,122.0
+Pasta,70,1.6,71.6
+Pen drive,20,35.0,55.0
+Notebook,10,2500.0,2510.0
+Mouse,25,45.0,70.0
+Teclado,15,70.0,85.0
+HD externo,5,400.0,405.0
+Monitor,8,950.0,958.0
+Webcam,12,120.0,132.0
+Caixa de som,18,85.0,103.0
+Adaptador,40,25.0,65.0
+Cabo HDMI,50,20.0,70.0
+Suporte,22,35.0,57.0
+Fone de ouvido,30,60.0,90.0
+Estabilizador,10,180.0,190.0
+Impressora,3,1200.0,1203.0

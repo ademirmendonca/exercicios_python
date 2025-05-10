@@ -1,0 +1,30 @@
+Hoje o céu está azul.
+Gosto de estudar programação.
+Python é uma linguagem poderosa.
+Estamos aprendendo a manipular arquivos.
+Esses exercícios são úteis.
+Praticar é a melhor forma de aprender.
+É importante dominar leitura e escrita de arquivos.
+Vamos contar palavras e linhas.
+A contagem de caracteres é fundamental.
+Cada linha deve ser analisada.
+Estamos quase na metade do arquivo.
+Os dados estão bem organizados.
+É possível fazer muito com pouco código.
+A linguagem Python é versátil.
+Os arquivos são lidos em modo texto.
+A manipulação pode ser linha por linha.
+O uso de funções facilita o processo.
+Devemos remover pontuação se necessário.
+Ler arquivos exige atenção aos detalhes.
+Escrever resultados é parte do processo.
+Agora vamos finalizar esse texto.
+Mais algumas linhas para completar.
+Estamos quase no fim.
+Só faltam algumas frases.
+Linha vinte e cinco chegou.
+Agora a vinte e seis.
+Vinte e sete é legal.
+Quase lá!
+Penúltima linha.
+Última linha.
