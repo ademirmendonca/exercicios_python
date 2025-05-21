@@ -1,3 +1,16 @@
-A: Ana, Amanda, Alex, Arthur, André, Aline, Alan, Alice, Alana, Anita
-C: Carlos, Caio, Cláudia, Camila, Cássio, Cristina, Carolina, Cintia, César, Cléber
-B: Bruno, Bianca, Beatriz, Brenda, Bernardo, Beto, Bruno, Benício, Bruna, Bárbara
+C: Caneta, Caderno, Cola, Cartolina, Canetinha, Caixa de som, Cabo HDMI
+B: Borracha
+L: Lápis
+M: Marca-texto, Mouse, Monitor
+A: Apontador, Adaptador
+T: Tesoura, Teclado
+R: Régua
+G: Grampeador
+F: Fita adesiva, Fone de ouvido
+P: Papel sulfite, Pasta, Pen drive
+E: Envelope, Estabilizador
+N: Notebook
+H: HD externo
+W: Webcam
+S: Suporte
+I: Impressora
