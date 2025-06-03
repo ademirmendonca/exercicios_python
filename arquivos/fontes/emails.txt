@@ -1,0 +1,8 @@
+joao@gmail.com
+maria@empresa.org
+pedro@hotmail.com
+invalid_email
+ana.silva@
+lucas@yahoo.com
+joana@provedor.com
+teste@site
